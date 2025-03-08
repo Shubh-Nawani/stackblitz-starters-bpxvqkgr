@@ -1,3 +1,4 @@
+
 # Lab Exercise: Deciphering SHA256 Hash of a 3-Digit Number
 
 ## 🎯 Objectives
